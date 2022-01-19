@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\mock test\test.cpp(14,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\mock test\test.cpp(15,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\mock test\test.cpp(44,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mock test.vcxproj -> C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Debug\mock test.exe

@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Addition of matrix\test.cpp(11,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Addition of matrix\test.cpp(12,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Addition of matrix\test.cpp(29,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Addition of matrix\test.cpp(31,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Addition of matrix.vcxproj -> C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Debug\Addition of matrix.exe

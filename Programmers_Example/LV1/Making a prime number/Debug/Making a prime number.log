@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Making a prime number\test.cpp(14,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Making a prime number\test.cpp(15,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Making a prime number\test.cpp(16,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Making a prime number\test.cpp(23,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Making a prime number.vcxproj -> C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Debug\Making a prime number.exe
