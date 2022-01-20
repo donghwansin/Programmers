@@ -20,7 +20,27 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "기타 파일",
       "ColorIndex": -1
+    },
+    "f60c29e5-8d3e-4509-b8cc-b6ba0e159ab2": {
+      "ProjectGuid": "f60c29e5-8d3e-4509-b8cc-b6ba0e159ab2",
+      "DisplayName": "The minimum multiple of N",
+      "ColorIndex": 3
+    },
+    "873ac52e-1c7c-47e0-80e0-e82da0640e58": {
+      "ProjectGuid": "873ac52e-1c7c-47e0-80e0-e82da0640e58",
+      "DisplayName": "Correct parenthesis",
+      "ColorIndex": 4
+    },
+    "e6c52288-f7eb-478c-b541-391127f3dca9": {
+      "ProjectGuid": "e6c52288-f7eb-478c-b541-391127f3dca9",
+      "DisplayName": "Counting the number of quads after compressed",
+      "ColorIndex": 5
+    },
+    "5b15b4f2-5b4e-4a74-8e67-f9dfd5052995": {
+      "ProjectGuid": "5b15b4f2-5b4e-4a74-8e67-f9dfd5052995",
+      "DisplayName": "Adding yin and yang.",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }
