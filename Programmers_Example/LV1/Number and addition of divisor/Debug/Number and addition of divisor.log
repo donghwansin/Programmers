@@ -1,4 +1,4 @@
 ﻿  test.cpp
-C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Number and addition of divisor\test.cpp(14,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Number and addition of divisor\test.cpp(27,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  Number and addition of divisor.vcxproj -> C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Debug\Number and addition of divisor.exe
+C:\Users\dbslz\Desktop\study\Programmers\Programmers_Example\LV1\Number and addition of divisor\test.cpp(14,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\Desktop\study\Programmers\Programmers_Example\LV1\Number and addition of divisor\test.cpp(27,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Number and addition of divisor.vcxproj -> C:\Users\dbslz\Desktop\study\Programmers\Programmers_Example\Debug\Number and addition of divisor.exe

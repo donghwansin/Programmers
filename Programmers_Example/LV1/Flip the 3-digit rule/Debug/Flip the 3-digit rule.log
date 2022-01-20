@@ -1,5 +1,5 @@
 ﻿  test.cpp
-C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Flip the 3-digit rule\test.cpp(23,27): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Flip the 3-digit rule\test.cpp(39,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\LV1\Flip the 3-digit rule\test.cpp(40,35): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Flip the 3-digit rule.vcxproj -> C:\Users\dbslz\OneDrive\바탕 화면\study\Programmers\Programmers_Example\Debug\Flip the 3-digit rule.exe
+C:\Users\dbslz\Desktop\study\Programmers\Programmers_Example\LV1\Flip the 3-digit rule\test.cpp(23,21): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dbslz\Desktop\study\Programmers\Programmers_Example\LV1\Flip the 3-digit rule\test.cpp(39,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dbslz\Desktop\study\Programmers\Programmers_Example\LV1\Flip the 3-digit rule\test.cpp(40,24): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Flip the 3-digit rule.vcxproj -> C:\Users\dbslz\Desktop\study\Programmers\Programmers_Example\Debug\Flip the 3-digit rule.exe
